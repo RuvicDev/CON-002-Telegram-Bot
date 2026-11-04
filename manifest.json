@@ -6,6 +6,7 @@
   "description": "Envío de mensajes y archivos a chats, grupos y canales de Telegram, y recepción de actualizaciones, mediante un bot",
   "description_en": "Send messages and files to Telegram chats, groups and channels, and receive updates, through a bot",
   "category": "messaging",
+  "icon": "icon.svg",
   "category_en": "messaging",
   "keywords": ["telegram", "bot", "botfather", "mensajería", "messaging", "chat", "grupo", "group", "canal", "channel", "archivos", "files"],
   "library": {
